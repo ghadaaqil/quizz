@@ -2,9 +2,13 @@
 
 # dependencies
 /node_modules
+*.js.map
+package-lock.json
+
 /.pnp
 .pnp.js
-
+.vscode/*
+.idea
 # testing
 /coverage
 

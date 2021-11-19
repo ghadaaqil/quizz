@@ -1,0 +1,3 @@
+export const ANIME_OPENING = "ANIMELIST/ANIME_OPENING";
+export const ANIMES_SAVING = "ANIMELIST/ANIMES_SAVING";
+export const NAME = "ACCUEIL";
