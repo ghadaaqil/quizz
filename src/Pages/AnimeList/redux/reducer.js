@@ -1,7 +1,7 @@
 import { ANIME_OPENING, ANIMES_SAVING, NAME } from "./constants";
 
 const initialAnimeListState = {
-  anime: {},
+  anime: undefined,
   animes: [],
 };
 
